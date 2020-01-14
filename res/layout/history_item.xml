@@ -38,7 +38,7 @@
         android:id="@+id/history_date"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif-medium"
+        android:fontFamily="@*android:string/config_headlineFontFamilyMedium"
         android:paddingStart="@dimen/result_padding_start"
         android:paddingEnd="@dimen/result_padding_end"
         android:text="@string/title_current_expression"
