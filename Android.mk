@@ -22,7 +22,6 @@ LOCAL_USE_AAPT2 := true
 
 LOCAL_MODULE_TAGS := optional
 LOCAL_SDK_VERSION := current
-LOCAL_PRODUCT_MODULE := true
 
 LOCAL_PACKAGE_NAME := ExactCalculator
 LOCAL_OVERRIDES_PACKAGES := Calculator
